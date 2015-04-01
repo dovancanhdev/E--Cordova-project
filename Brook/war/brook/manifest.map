@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><permutations>
+<permutation name="1C93DEA7A714E7C05D81751035E9D37D">
+<phonegap.env>yes</phonegap.env>
+<mgwt.density>xhigh</mgwt.density>
+</permutation>
+<permutation name="78FB396BF554855025564BAC58B639F3">
+<mgwt.density>xhigh</mgwt.density>
+<phonegap.env>no</phonegap.env>
+</permutation>
+</permutations>

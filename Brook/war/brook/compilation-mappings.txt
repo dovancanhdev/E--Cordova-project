@@ -1,0 +1,73 @@
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density high
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density mid
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density xhigh
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density high
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density mid
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density xhigh
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density high
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density mid
+phonegap.env yes
+
+1C93DEA7A714E7C05D81751035E9D37D.cache.js
+mgwt.density xhigh
+phonegap.env yes
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density high
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density mid
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density xhigh
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density high
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density mid
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density xhigh
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density high
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density mid
+phonegap.env no
+
+78FB396BF554855025564BAC58B639F3.cache.js
+mgwt.density xhigh
+phonegap.env no
+
+Devmode:devmode.js
